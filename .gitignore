@@ -1,0 +1,27 @@
+# Environment
+.env
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyw
+.Python
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Data directories (too large for git)
+chroma_db/
+workspace/
+managed_projects/
+
+# IDE
+.vscode/
+.idea/
+
+# Build
+dist/
+build/
+*.egg-info/

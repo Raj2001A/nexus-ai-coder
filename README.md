@@ -93,4 +93,4 @@ python -m pytest tests
 This project was built to demonstrate proficiency in **LLM Orchestration**, **System Design**, and **Applied AI Engineering**. It solves the "hallucination problem" in coding assistants by enforcing a deterministic workflow, rigorous verification, and high-fidelity RAG.
 
 ---
-*Created by [Your Name] for the Portfolio Showcase.*
+*Created by Raja Rajeswaran for the Portfolio Showcase.*
